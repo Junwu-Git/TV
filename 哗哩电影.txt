@@ -1,0 +1,12 @@
+Export from 影音宝 - 听你想听的，看你想看的
+哗哩-电影02,https://cn-scya-ct-01-06.bilivideo.com/live-
+哗哩-电影03,https://cn-scya-ct-01-08.bilivideo.com/live-bvc/397225/live_66968526_49409870_1500.m3u8
+哗哩-电影04,https://cn-sccd-ct-01-04.bilivideo.com/live-bvc/784308/live_19358082_1399772_1500.m3u8
+哗哩-电影05,https://cn-scya-ct-01-08.bilivideo.com/live-bvc/276498/live_9204521_73368507_1500.m3u8
+哗哩-电影06,https://cn-scya-ct-01-05.bilivideo.com/live-bvc/943135/live_25999342_7533504_1500.m3u8
+哗哩-电影07,https://cn-sccd-ct-01-09.bilivideo.com/live-bvc/105434/live_102569357_4797059_1500.m3u8
+哗哩-电影08,https://cn-sccd-ct-01-07.bilivideo.com/live-bvc/641719/live_286311648_9572089_1500.m3u8
+哗哩-电影09,https://cn-sccd-ct-01-02.bilivideo.com/live-bvc/336371/live_26059938_6975421_1500.m3u8
+哗哩-电影11,https://d1--cn-gotcha04.bilivideo.com/live-bvc/861703/live_233122609_9406934_1500.m3u8
+哗哩-电影12,https://cn-scya-ct-01-08.bilivideo.com/live-
+哗哩-电影13,https://cn-scya-ct-01-08.bilivideo.com/live-bvc/117546/live_22989278_9714011_1500.m3u8
